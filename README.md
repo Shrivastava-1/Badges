@@ -8,7 +8,7 @@
   <ul>
       <li>Organized collection of earned badges.</li>
       <li>Showcasing progress and accomplishments.</li>
-      <li>Easy to access and maintain</li>
+      <li>Easy to access and maintain.</li>
   </ul>
   
   <h2>📂 How to Use</h2>
