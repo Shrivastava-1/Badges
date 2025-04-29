@@ -2,7 +2,7 @@
   <p>Welcome to the <strong>Achievements Badges Repository</strong>! This repository is solely dedicated to collecting and displaying various achievement badges.</p>
   
   <h2>📌 Purpose</h2>
-  <p>This repository serves as a personal collection of achievement badges earned from various platforms, projects, and contributions.</p>
+  <p>This repository serves as a collection of achievement badges earned from various platforms, projects, and contributions.</p>
   
   <h2>🎯 Features</h2>
   <ul>
