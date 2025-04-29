@@ -6,7 +6,7 @@
   
   <h2>🎯 Features</h2>
   <ul>
-      <li>Organized collection of earned badges</li>
+      <li>Organized collection of earned badges.</li>
       <li>Showcasing progress and accomplishments</li>
       <li>Easy to access and maintain</li>
   </ul>
