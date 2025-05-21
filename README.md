@@ -1,4 +1,4 @@
-<h1 align="center">🏆 Achievements Badges Repository</h1>
+<h1 align="center">🏆 Achievements Badges</h1>
   <p>Welcome to the <strong>Achievements Badges Repository</strong>! This repository is solely dedicated to collecting and displaying various achievement badges.</p>
   
   <h2>📌 Purpose</h2>
